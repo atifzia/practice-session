@@ -11,3 +11,7 @@ func main() {
 func SumTwoNumbers(a, b int) int {
 	return a + b
 }
+
+func MultiplyTwoNumbers(a, b int) int {
+	return a * b
+}
