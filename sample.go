@@ -19,3 +19,7 @@ func SubTwoNumbers(a, b int) int {
 func MultiplyTwoNumbers(a, b int) int {
 	return a * b
 }
+
+func DivideTwoNumbers(a, b int) int {
+	return a / b
+}
